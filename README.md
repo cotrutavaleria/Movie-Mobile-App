@@ -5,6 +5,8 @@ This is a mobile app that gives users the possibility to browse through movies a
 
 ## Demo
 
+https://github.com/user-attachments/assets/8f6cbe9e-47db-48fa-8fcf-7b9e8a301cdf
+
 ## Code explanation
 I developed in Dart an API using Android Studio - an IDE for Android app development.
 The client application is implemented in Flutter - an open source framework by Google for building multi-platform applications from a single codebase.
